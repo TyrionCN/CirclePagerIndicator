@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CirclePagerIndicator">
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="circleStroke" format="dimension"/>
+        <attr name="circleDivide" format="dimension"/>
+        <attr name="circleFillColor" format="color"/>
+        <attr name="circleEmptyColor" format="color"/>
+        <attr name="circleCount" format="integer"/>
+    </declare-styleable>
+</resources>
